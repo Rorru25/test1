@@ -1,1 +1,2 @@
-# test1
+# Testeo
+este es un repositorio de prueba para mineria 1.
